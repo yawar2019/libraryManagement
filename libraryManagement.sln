@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libraryManagement", "libraryManagement.csproj", "{64AD4644-B7CF-4896-8A18-8057CD3305F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMVCCoreApp", "..\FirstMVCCoreApp\FirstMVCCoreApp.csproj", "{30571A00-307B-44A4-8660-4B5E6DBE67CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64AD4644-B7CF-4896-8A18-8057CD3305F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AD4644-B7CF-4896-8A18-8057CD3305F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AD4644-B7CF-4896-8A18-8057CD3305F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AD4644-B7CF-4896-8A18-8057CD3305F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30571A00-307B-44A4-8660-4B5E6DBE67CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30571A00-307B-44A4-8660-4B5E6DBE67CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30571A00-307B-44A4-8660-4B5E6DBE67CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30571A00-307B-44A4-8660-4B5E6DBE67CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22E906A-7CF5-480F-B47F-5888B4C0D671}
+	EndGlobalSection
+EndGlobal
